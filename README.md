@@ -1,6 +1,15 @@
 ![Logo](https://i.ibb.co/mFrnPDjF/monicount-logo.png)
 
-**Monicount** is a sleek and minimalist web application designed to help you manage your finances efficiently and clearly. With a modern and intuitive interface, Monicount offers tools for financial tracking, planning and visualization of expenses. Including AI-generated reports with insights into your finances, in Premium subscription mode.
+## Monicount – AI Finances Application
+
+Monicount is a minimalist personal finance web app designed for people with **variable income**, especially **neurodivergent and chronically ill users** who live with fatigue and executive dysfunction.  
+Instead of overwhelming dashboards, Monicount focuses on low-cognitive-load budgeting: clear categories, calm visuals and gentle, AI-powered summaries.
+
+Users can:
+- Organise income and expenses into meaningful categories (Essentials, Lifestyle, Investments / Goals)
+- Compare **planned vs actual** spending over time
+- Track credit cards and recurring payments
+- Receive AI-generated insights and optimisation tips in natural language
 
 ## Technologies Used
 
